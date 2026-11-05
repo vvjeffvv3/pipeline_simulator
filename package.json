@@ -1,0 +1,1 @@
+{"name":"pipeline-tool-atlas","private":true,"scripts":{"dev":"node server.cjs","check":"node --check dist/app.js && node --check dist/data.js"}}
