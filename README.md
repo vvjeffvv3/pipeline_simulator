@@ -21,7 +21,8 @@ npm run dev
 
 ## 구성
 
-- `dist/index.html`, `dist/style.css`: 화면 구성과 반응형 스타일
+- `index.html`: 저장소 최상위 HTML 시작 파일. 대시보드는 GitHub Pages에서 제공할 수 있습니다.
+- `dist/index.html`, `dist/style.css`: Sites 배포용 화면과 반응형 스타일
 - `dist/data.js`: 도구 목록과 분류 정보
 - `dist/app.js`: 검색, 비교, 즐겨찾기, 조건 기반 설계 기능
 - `server.cjs`: 로컬 미리보기용 작은 정적 웹 서버
